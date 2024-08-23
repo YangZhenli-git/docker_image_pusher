@@ -1,1 +1,1 @@
- redis:arm64
+redis:arm64
