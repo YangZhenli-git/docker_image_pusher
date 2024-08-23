@@ -1,1 +1,1 @@
-redis/redis-stack
+arm64v8/ubuntu:20.04
