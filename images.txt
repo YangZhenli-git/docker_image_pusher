@@ -1,1 +1,1 @@
-openjdk:8-jdk-alpine
+elasticsearch:8.1.0
