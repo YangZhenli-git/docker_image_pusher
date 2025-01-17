@@ -1,1 +1,1 @@
-openjdk:8-jre-alpine
+rabbitmq:3-management-alpine
