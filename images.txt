@@ -1,1 +1,1 @@
-rabbitmq:3-management-alpine
+arm64v8/rabbitmq:3-management
