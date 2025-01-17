@@ -1,1 +1,1 @@
-arm64v8/rabbitmq:3-management
+texplode/rustrabbitmqarm64
