@@ -1,1 +1,1 @@
-texplode/rustrabbitmqarm64
+devopscmac/armrabbitmq
